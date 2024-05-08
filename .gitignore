@@ -1,0 +1,54 @@
+# Project files
+data
+models
+helper_functions.py
+
+# Compiled Python files
+__pycache__/
+*.pyc
+
+# Logs and runtime data
+logs/
+*.log
+*.csv
+
+# Virtual environments
+venv/
+env/
+env.bak/
+env1/
+venv1/
+myenv/
+
+# Python dependencies
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Package directories
+.venv/
+.venv/
+
+# Jupyter Notebook temporary files
+.ipynb_checkpoints/
+
+# Conda environment
+.env/
+
+# macOS specific files/directories
+.DS_Store
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# Editor-specific files
+*~
+
+# Compiled files
+*.pyc
+
+# Environment variables file
+.env
