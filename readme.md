@@ -18,3 +18,8 @@ author: John Doe
 1. Linear Regression
 2. Classification
 3. Computer Vision
+
+### Projects
+
+1. Digit Recognizer
+2. Rice Leaf Plant Disease Classification
